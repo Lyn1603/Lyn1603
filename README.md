@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML CSS JS PHP SQL MySQL SCSS**
 
--  I’m currently learning **HTML CSS JS PHP SQL MySQL SCSS**
+- :mag: Where **IIM DIGITAL SCHOOL PARIS** ![téléchargement1](https://user-images.githubusercontent.com/62753554/190232923-55833217-a5b6-4742-b245-21d987a547f8.png)
 
 - 💬 Ask me about **Web developement, video games and food**
 
